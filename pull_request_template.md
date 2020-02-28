@@ -1,7 +1,10 @@
 <!--- Provide a general summary of your changes in the Title above -->
 
 # Related issue(s)
+
 <!--- Paste a link to the Jira task or tasks that this PR closes here -->
+
+- <https://netengineprojects.atlassian.net/browse/XXX-YYY>
 
 # Description
 
