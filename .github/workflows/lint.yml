@@ -1,4 +1,4 @@
-name: Linting files
+name: Markdownlint
 
 on: [push]
 
