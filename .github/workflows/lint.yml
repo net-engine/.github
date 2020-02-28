@@ -1,0 +1,22 @@
+name: Linting files
+
+on: [push]
+
+jobs:
+  Lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+      - name: Install Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '10.x'
+      - name: markdownlint-cli
+        uses: nosborn/github-action-markdown-cli@v1.1.1
+        with:
+          files: .
+          config_file: ".markdownlint.yaml"
