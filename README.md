@@ -1,3 +1,3 @@
 # .github
 
-![Lint](https://github.com/net-engine/.github/workflows/Lint/badge.svg)
+![Markdownlint](https://github.com/net-engine/.github/workflows/Markdownlint/badge.svg)

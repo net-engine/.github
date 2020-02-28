@@ -1,10 +1,10 @@
-name: Lint
+name: markdownlint
 
 on: [push]
 
 jobs:
-  lint:
-    name: Lint
+  markdownlint:
+    name: markdownlint
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
