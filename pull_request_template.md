@@ -34,6 +34,7 @@
 # Checklist
 
 - [ ] The implementation has been tested locally
+- [ ] There are no typos, spelling, or grammatical errors in end-user facing text
 - [ ] The Pull Request is tagged with the `staging` label if it is deployed to staging
 - [ ] The implementation has been tested on staging
 - [ ] Tests are added, if appropriate
