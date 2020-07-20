@@ -2,9 +2,9 @@
 
 # Related issue(s)
 
-<!--- Paste a link to the Jira task or tasks that this PR closes here -->
+<!--- Paste a link to the Salesforce work task or tasks that this PR closes here -->
 
-- <https://netengineprojects.atlassian.net/browse/XXX-YYY>
+- <https://scouttalent.lightning.force.com/lightning/r/agf__ADM_Work__c/a3E1r00000JTDfxEAH/view>
 
 # Description
 
