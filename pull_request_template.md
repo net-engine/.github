@@ -4,7 +4,7 @@
 
 <!--- Paste a link to the Salesforce work task or tasks that this PR closes here -->
 
-- <https://scouttalent.lightning.force.com/lightning/r/agf__ADM_Work__c/a3E1r00000JTDfxEAH/view>
+- <https://scouttalent.lightning.force.com/lightning/r/agf__ADM_Work__c/XXX/view>
 
 # Description
 
