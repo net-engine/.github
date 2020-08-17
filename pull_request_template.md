@@ -38,3 +38,4 @@
 - [ ] The Pull Request is tagged with the `staging` label if it is deployed to staging
 - [ ] The implementation has been tested on staging
 - [ ] Tests are added, if appropriate
+- [ ] The client/support team have been notified before merge, if this change runs migrations or other risky code
