@@ -6,6 +6,9 @@
 
 - <https://scouttalent.lightning.force.com/lightning/r/agf__ADM_Work__c/XXX/view>
 
+- [[BUGSNAG ISSUE]](link_to_bugsnag_issue)
+- [[TICKET_NUMBER]](link_to_aa_url)
+
 # Description
 
 <!--- Describe your changes in detail
@@ -21,6 +24,7 @@
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+- [ ] Maintenance task (rake tasks or changes that do not change logic tha will affect the application behaviour)
 
 # How to test / reproduce
 
