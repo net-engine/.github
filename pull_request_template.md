@@ -19,7 +19,7 @@
 <!--- If data needs to be migrated or any rake tasks should be executed after deploy, note what to do here -->
 
 # Type of Change
-<!--- Check the box(es) that your pull changes address -->
+<!--- Check the box(es) that your changes address -->
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
@@ -27,6 +27,12 @@
 - [ ] Maintenance task (rake tasks or changes that do not change logic tha will affect the application behaviour)
 
 # How to test / reproduce
+
+## Assignee
+
+The author of the PR must be one assignee
+
+The person who has tested this in staging, is the second assignee
 
 # Screenshots
 
@@ -38,8 +44,11 @@
 # Checklist
 
 - [ ] The implementation has been tested locally
+- [ ] The author of this PR is the Assignee
+- [ ] The implementation has been tested in staging (and the person who is doing it is an assignee)
+  - [ ] This cannot be tested on staging, and the reasons why are in the `How to test / reproduce` section
 - [ ] There are no typos, spelling, or grammatical errors in end-user facing text
 - [ ] The Pull Request is tagged with the `staging` label if it is deployed to staging
 - [ ] The implementation has been tested on staging
-- [ ] Tests are added, if appropriate
-- [ ] The client/support team have been notified before merge, if this change runs migrations or other risky code
+- [ ] Tests are added where appropriate
+- [ ] The client/support team have been notified before release, if this change runs migrations or other risky code
