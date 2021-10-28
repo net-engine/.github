@@ -4,8 +4,6 @@
 
 <!--- Paste a link to the Salesforce work task or tasks that this PR closes here -->
 
-- <https://scouttalent.lightning.force.com/lightning/r/agf__ADM_Work__c/XXX/view>
-
 - [[BUGSNAG ISSUE]](link_to_bugsnag_issue)
 - [[TICKET_NUMBER]](link_to_aa_url)
 
