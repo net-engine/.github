@@ -47,6 +47,5 @@ The person who has tested this in staging, is the second assignee
   - [ ] This cannot be tested on staging, and the reasons why are in the `How to test / reproduce` section
 - [ ] There are no typos, spelling, or grammatical errors in end-user facing text
 - [ ] The Pull Request is tagged with the `staging` label if it is deployed to staging
-- [ ] The implementation has been tested on staging
 - [ ] Tests are added where appropriate
 - [ ] The client/support team have been notified before release, if this change runs migrations or other risky code
