@@ -10,6 +10,7 @@
 ## Description
 
 <!-- Short summary of changes -->
+<!-- Add screenshots, link to Loom videos, or link to wireframes/mockups if they are relevant; e.g.: for frontend work -->
 
 ## Pre-deployment steps
 
@@ -33,25 +34,11 @@
 
 <!-- Describe the steps to test the changes that this PR introduces; or explain the reason why it is not possible to test the changes -->
 
-## Assignee
-
-<!-- Add mentions to the PR author and also to reviewers who tested the changes in UAT -->
-
-## Screenshots
-
-<!-- Add screenshots, link to Loom videos, or link to wireframes/mockups if they are relevant; e.g.: for frontend work -->
-
 ## Checklist
 
 - Manual tests
   - [ ] Changes were tested locally by the author
-  - [ ] Changes were tested on staging by the author
-  - [ ] Changes were tested on staging by reviewers and reviewers mentioned themselves in the "Assignee" section above
   - [ ] Changes were not tested and the reason was explained in the "How to test" section above
-- Automated tests
-  - [ ] Tests were written where appropriate
-- Labels
-  - [ ] `staging` label was added after this PR was released to staging
+
 - Others
-  - [ ] There are no typos, spelling, or grammatical errors in UI/UX text
   - [ ] Client Success Team (for Scout) or client (for Agency) was notified before deployment if this PR involves risky changes; e.g.: running Rake tasks for modifying or deleting resources
